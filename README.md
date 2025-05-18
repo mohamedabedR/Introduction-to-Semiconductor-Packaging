@@ -213,6 +213,7 @@ In this part of the lab the Tool was used is the Icapak
 ## Setting Up A Flip-Chip BGA Package
 The package has a particular dimension. We are taking the default values for simulation and choosing the Flip chip BGA
 
+ <img src="packaging/11.png">
 
 
 
