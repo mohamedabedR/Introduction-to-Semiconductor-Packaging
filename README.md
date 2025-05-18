@@ -6,7 +6,7 @@ Semiconductor packaging is the final frontier of innovation that protects, conne
 
 # Part I: Packaging Evolution – From Basics to 3D Integration
 
-## 1. Industry Overview and Packaging Fundamentals
+##  Industry Overview and Packaging Fundamentals
 
 Semiconductor packaging serves as a protective and functional interface between the delicate silicon die and the external environment. Key functions include:
 
@@ -26,7 +26,7 @@ Semiconductor packaging serves as a protective and functional interface between 
 
 ---
 
-## 2. Understanding Package Requirements and Foundational Package Types
+##  Understanding Package Requirements and Foundational Package Types
 
 Selecting an appropriate package involves balancing multiple factors:
 
@@ -50,7 +50,7 @@ Selecting an appropriate package involves balancing multiple factors:
 
 ---
 
-## 3. Evolving Package Architectures from Single-Chip to Multi-Chip Modules
+##  Evolving Package Architectures from Single-Chip to Multi-Chip Modules
 
 ### Leadframe-Based Packages
 
@@ -82,7 +82,7 @@ Selecting an appropriate package involves balancing multiple factors:
 
 ---
 
-## 4. Interposers, Redistribution Layers, and 3D Packaging Approaches
+##  Interposers, Redistribution Layers, and 3D Packaging Approaches
 
 ### Redistribution Layers (RDL)
 
@@ -103,7 +103,7 @@ Selecting an appropriate package involves balancing multiple factors:
 
 ---
 
-## 5. Comparative Analysis and Selecting the Right Packaging Solution
+##  Comparative Analysis and Selecting the Right Packaging Solution
 
 ### Selection Guidelines
 
@@ -127,7 +127,7 @@ This section outlines the steps to transform a semiconductor wafer into a fully 
 
 ---
 
-## 1. Wafer-Level Processing and Testing
+##  Wafer-Level Processing and Testing
 
 - Wafers undergo **electrical testing** post-fabrication.
 - **Wafer-Level Packaging (WLP)** enables packaging while still on the wafer.
@@ -135,49 +135,49 @@ This section outlines the steps to transform a semiconductor wafer into a fully 
 
 ---
 
-## 2. Die Preparation
+##  Die Preparation
 
 - **Dicing** separates dies from the wafer.
 - **Cleaning & inspection** ensure debris-free chips.
 
 ---
 
-## 3. Die Attach
+##  Die Attach
 
 - The die is fixed to the substrate using **adhesives or solder**.
 - Provides **mechanical support** and **thermal path**.
 
 ---
 
-## 4. Wire Bonding and Flip Chip Attachment
+##  Wire Bonding and Flip Chip Attachment
 
 - **Wire Bonding**: Connects pads to leads using thin wires.
 - **Flip-Chip**: Solder bumps connect die face-down directly to substrate.
 
 ---
 
-## 5. Encapsulation and Molding
+##  Encapsulation and Molding
 
 - **Epoxy molding compound** protects the die and wires.
 - Shields against **moisture**, **dust**, and **mechanical stress**.
 
 ---
 
-## 6. Testing and Inspection
+##  Testing and Inspection
 
 - Final **electrical testing** ensures functionality.
 - **X-ray and visual inspections** detect defects.
 
 ---
 
-## 7. Final Assembly and Marking
+##  Final Assembly and Marking
 
 - May include **heatsinks, leads, or connectors**.
 - **Laser marking** or **ink printing** for traceability.
 
 ---
 
-## 8. Quality and Reliability Assurance
+##  Quality and Reliability Assurance
 
 - Subjected to **thermal cycling**, **mechanical stress**, and **humidity** tests.
 - Ensures **long-term durability** in real-world conditions.
