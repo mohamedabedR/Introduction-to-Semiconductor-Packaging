@@ -219,3 +219,12 @@ The package has a particular dimension. We are taking the default values for sim
 
 set up the Die and the substrate and the solder 
 
+<img src="packaging/fc-d.png">
+
+<img src="packaging/fc-die.png">
+
+<img src="packaging/fc-sub.png">
+
+<img src="packaging/fc-solder.png">
+
+
