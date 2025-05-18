@@ -399,4 +399,15 @@ This guide walks you through creating a simple die (chip) model using ANSYS AEDT
  creating Die and substrane much similar to each other starting with drawing rectangle then setting what size we need it then add thikness to is and choosing after that what material we want to the component .
  for Die we are chosing silicon and for substrate we choose epoxy and then we add layer in between as die attach
  
+<img src="packaging/size.png">
+
+<img src="packaging/thikness.png">
+
+Final Form
+
+<img src="packaging/finalform.png">
+
+Add mold component
+<img src="packaging/finalform2.png">
+
 
