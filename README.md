@@ -1,3 +1,35 @@
+
+##  Table of Contents
+
+1. [Introduction to Semiconductor Packaging](#introduction-to-semiconductor-packaging)  
+2. [Part I: Packaging Evolution – From Basics to 3D Integration](#part-i-packaging-evolution--from-basics-to-3d-integration)  
+   - [Industry Overview and Packaging Fundamentals](#industry-overview-and-packaging-fundamentals)  
+   - [Understanding Package Requirements and Foundational Package Types](#understanding-package-requirements-and-foundational-package-types)  
+   - [Evolving Package Architectures from Single-Chip to Multi-Chip Modules](#evolving-package-architectures-from-single-chip-to-multi-chip-modules)  
+   - [Interposers, Redistribution Layers, and 3D Packaging Approaches](#interposers-redistribution-layers-and-3d-packaging-approaches)  
+   - [Comparative Analysis and Selecting the Right Packaging Solution](#comparative-analysis-and-selecting-the-right-packaging-solution)  
+3. [Part II: From Wafer to Package – Assembly and Manufacturing Essentials](#part-ii-from-wafer-to-package--assembly-and-manufacturing-essentials)  
+   - [Wafer-Level Processing and Testing](#wafer-level-processing-and-testing)  
+   - [Die Preparation](#die-preparation)  
+   - [Die Attach](#die-attach)  
+   - [Wire Bonding and Flip Chip Attachment](#wire-bonding-and-flip-chip-attachment)  
+   - [Encapsulation and Molding](#encapsulation-and-molding)  
+   - [Testing and Inspection](#testing-and-inspection)  
+   - [Final Assembly and Marking](#final-assembly-and-marking)  
+   - [Quality and Reliability Assurance](#quality-and-reliability-assurance)  
+4. [Labs: Thermal Simulation of Semiconductor Packages with ANSYS](#labs-thermal-simulation-of-semiconductor-packages-with-ansys)  
+   - [Introduction to ANSYS Electronics Desktop (AEDT)](#introduction-to-ansys-electronics-desktop-aedt)  
+   - [Setting Up A Flip-Chip BGA Package](#setting-up-a-flip-chip-bga-package)  
+   - [Meshing and Analysis](#meshing-and-analysis)  
+5. [Part III: Semiconductor Package Testing & Modeling with ANSYS](#part-iii-semiconductor-package-testing--modeling-with-ansys)  
+   - [Package Testing & Reliability](#package-testing--reliability)  
+   - [Reliability Tests](#reliability-tests)  
+   - [Package Modeling in ANSYS AEDT](#package-modeling-in-ansys-aedt)  
+6. [Creating Dice and Substrate in AEDT](#creating-dice-and-substrate-in-aedt)  
+   - [Steps to Create a Die in ANSYS Electronics Desktop (AEDT)](#steps-to-create-a-die-in-ansys-electronics-desktop-aedt)  
+   - [Analysis and Results](#analysis-and-results)  
+
+---
 # Introduction to Semiconductor Packaging
 
 Semiconductor packaging is the final frontier of innovation that protects, connects, and integrates chips into usable electronic components. This document covers both the **evolution of package technologies** and the **step-by-step process of transforming wafers into final packages**.
