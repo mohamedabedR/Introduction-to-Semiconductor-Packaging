@@ -352,4 +352,51 @@ Model a complete wire-bond semiconductor package cross-section using ANSYS Elect
 10. **Packing & Shipping**
     - Devices packed in trays or reels and shipped with labels.
 
+## Creating Dice and substrate in ADET 
+
+###  Steps to Create a Die in ANSYS Electronics Desktop (AEDT)
+
+This guide walks you through creating a simple die (chip) model using ANSYS AEDT.
+
+---
+
+#### Step 1: Launch ANSYS Electronics Desktop
+
+1. Open **ANSYS Electronics Desktop (AEDT)**.
+2. Choose a project type:
+   - `Icepak` – for thermal analysis
+   - `HFSS 3D Layout` – for electromagnetic analysis
+   - `Q3D Extractor` – for parasitic extraction
+3. Create a **new project** and insert a **new design**.
+4. Set the **working units**:
+   - Navigate to `Modeler → Units`
+   - Choose `mm` or `μm` (for package-level modeling)
+
+---
+
+#### Step 2: Create the Die Geometry
+
+1. Use the **Draw → Rectangle** tool to draw the base of the die.
+2. Set the rectangle dimensions:
+   - **Width**: `3 mm`
+   - **Height**: `3 mm`
+   - **Position**: `(0, 0, 0)` (centered origin)
+3. Apply thickness:
+   - Go to `Modeler → Surface → Thicken Sheet`
+   - Set thickness to `0.2 mm` (representing post-thinning)
+4. Rename the object (e.g., `Die`) for clarity.
+
+---
+
+#### Step 3: Assign Material Properties
+
+1. Navigate to `Modeler → Assign Material`.
+2. Choose `Silicon` from the built-in material library.
+   - Optionally, define a **custom material** if needed.
+3. Apply the material to the die geometry.
+
+
+ creating Die and substrane much similar to each other starting with drawing rectangle then setting what size we need it then add thikness to is and choosing after that what material we want to the component .
+ for Die we are chosing silicon and for substrate we choose epoxy and then we add layer in between as die attach
+ 
 
