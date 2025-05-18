@@ -50,7 +50,7 @@ Selecting an appropriate package involves balancing multiple factors:
 
 ---
 
-###Evolving Package Architectures from Single-Chip to Multi-Chip Modules
+### Evolving Package Architectures from Single-Chip to Multi-Chip Modules
 
 #### Leadframe-Based Packages
 
@@ -63,7 +63,7 @@ Selecting an appropriate package involves balancing multiple factors:
 - **Advantages**: Cost-effective, mature technology, good electrical performance.
 - **Limitations**: Limited I/O density, may not meet high-performance requirements.
 
-####Laminate-Based Packages
+#### Laminate-Based Packages
 
 - **Structure**: Multi-layer organic substrate supporting the die.
 - **Common Types**:
