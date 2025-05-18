@@ -227,4 +227,12 @@ set up the Die and the substrate and the solder
 
 <img src="packaging/fc-solder.png">
 
+Next step is to add soources and boundries 
+
+the source in this case was defined by the package with a deafult value 1W
+
+and we define the boundry 
+
+<img src="packaging/buandry-src.png">
+
 
