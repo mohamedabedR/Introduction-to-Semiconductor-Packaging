@@ -206,3 +206,15 @@ ANSYS Electronics Desktop is an integrated simulation platform combining electro
 - **High-Performance Computing (HPC)**: Multi-threaded and distributed simulations with batch runs, parameter sweeps, and optimization.
 - **Automation and Scripting**: Supports IronPython scripting and Ansys ACT extensions for custom workflows and applications.
 
+
+In this part of the lab the Tool was used is the Icapak 
+
+
+## Setting Up A Flip-Chip BGA Package
+The package has a particular dimension. We are taking the default values for simulation and choosing the Flip chip BGA
+
+
+
+
+set up the Die and the substrate and the solder 
+
