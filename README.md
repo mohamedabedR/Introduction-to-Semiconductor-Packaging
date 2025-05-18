@@ -416,4 +416,5 @@ After finishing our Design we run same meshing and analysis as the previous Lab 
 <img src="packaging/temp1.png">
 
 
+***** Note the mold component exsist but hiden to show better image 
 
