@@ -410,4 +410,10 @@ Final Form
 Add mold component
 <img src="packaging/finalform2.png">
 
+### analysis and Results 
+After finishing our Design we run same meshing and analysis as the previous Lab and getting :
+
+<img src="packaging/temp1.png">
+
+
 
