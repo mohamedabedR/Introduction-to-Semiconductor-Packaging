@@ -210,14 +210,14 @@ ANSYS Electronics Desktop is an integrated simulation platform combining electro
 In this part of the lab the Tool was used is the Icapak 
 
 
-## Setting Up A Flip-Chip BGA Package
+### Setting Up A Flip-Chip BGA Package
 The package has a particular dimension. We are taking the default values for simulation and choosing the Flip chip BGA
 
  <img src="packaging/11.png">
 
 
 
-set up the Die and the substrate and the solder 
+###set up the Die and the substrate and the solder 
 
 <img src="packaging/fc-d.png">
 
@@ -234,5 +234,18 @@ the source in this case was defined by the package with a deafult value 1W
 and we define the boundry 
 
 <img src="packaging/buandry-src.png">
+
+
+### meshing and analysis
+
+<img src="packaging/mesh-visual.png">
+
+<img src="packaging/mesh2.png">
+
+results :
+
+<img src="packaging/result1.png">
+
+
 
 
